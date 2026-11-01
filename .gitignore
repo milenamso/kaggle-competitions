@@ -1,0 +1,13 @@
+# data & outputs
+data/
+*.zip
+*.npy
+submission*.csv
+
+# python / jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# credentials
+kaggle.json

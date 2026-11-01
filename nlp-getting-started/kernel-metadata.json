@@ -1,0 +1,16 @@
+{
+  "id": "KAGGLE_USERNAME/disaster-tweets-eda-baselines-and-roberta-ensemble",
+  "title": "Disaster Tweets - EDA, Baselines and RoBERTa Ensemble",
+  "code_file": "disaster-tweets-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": ["nlp", "text classification", "transformers", "lightgbm"],
+  "dataset_sources": [],
+  "competition_sources": ["nlp-getting-started"],
+  "kernel_sources": [],
+  "model_sources": []
+}
